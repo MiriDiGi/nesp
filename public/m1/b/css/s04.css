@@ -26,8 +26,8 @@ p.myClass {
     color: red;
 }
 
-#blockId {
-    border: 3px solid #ff8000;
+#blockId {                          
+    border: 3px solid #ff8000;      /*sto stilando un bordo*/
     background-color: #ffff80;
 }
 
